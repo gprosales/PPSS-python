@@ -1,0 +1,6 @@
+import pandas as pd
+import scikit
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sp
+%matplotlib inline
